@@ -3,6 +3,8 @@
 An application that identifies the pair of employees who have worked
 together on common projects for the longest period of time.
 
+Live Preview: https://pair-employees-yoannakr.netlify.app/ 
+
 ## Description
 The user picks up a file from the file system and, after selecting it, all common
 projects of the pair are displayed in datagrid.
